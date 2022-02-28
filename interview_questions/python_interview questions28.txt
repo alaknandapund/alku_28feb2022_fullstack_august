@@ -1,0 +1,18 @@
+Q1: what is the purpose of relatinal operators in python?
+Q2: What are assignment operator in python?
+Q3:How are identity operators different than the membership operators?
+Q4:Explain Inheritance and its various types in python?
+Q5:Explain the Django Architecture?
+Q6:Explian the django project Directory Structure?
+Q7: What are models in django?
+Q8:What are templates in django?
+Q9:What are Views in django?
+Q10:What is django ORM?
+Q11:Define static files and explain their use?
+Q12:What is Django rest framework?
+Q13:Whai is Django-admin and manage.py?
+Q14:explain django-admin comments?
+Q15:What is jinja templating
+
+
+ 
